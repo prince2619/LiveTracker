@@ -1,0 +1,19 @@
+git init
+
+git add .
+
+git commit -m "  message"
+
+git branch -M main
+
+git remote add origin https://github.com/prince2619/LiveTracker.git
+
+git push -u origin main  // for first time push
+
+// after some changes you need to re push
+
+git add .
+
+git commit -m "commit after changes"
+
+git push 
