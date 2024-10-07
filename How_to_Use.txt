@@ -1,0 +1,4 @@
+To run this project you need to run command
+   npx nodemon app.js
+
+open any browser and type localhost:3000 and press enter you're able to see this 
